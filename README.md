@@ -1,0 +1,1 @@
+# browser_shortcut_scripts
